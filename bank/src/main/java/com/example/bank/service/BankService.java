@@ -1,5 +1,4 @@
 package com.example.bank.service;
-import com.example.bank.constants.AccountType;
 import com.example.bank.entity.BankAccount;
 import com.example.bank.repository.BankAccountRepository;
 import org.springframework.beans.factory.annotation.Autowired;
